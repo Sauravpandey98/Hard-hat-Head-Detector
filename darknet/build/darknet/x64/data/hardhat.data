@@ -1,0 +1,5 @@
+classes=2
+train=build/darknet/x64/data/hardhat_train.txt
+valid=build/darknet/x64/data/hardhat_train.txt
+names= build/darknet/x64/data/hardhat.names
+backup=/content/drive/MyDrive/Yolov4/hardhat_backup/
